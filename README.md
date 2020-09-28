@@ -34,6 +34,10 @@ For more Information, enter in this link below:
 <br>
 https://flutter.dev/docs/get-started/install
 
+Also, link de project to a Firebase project. More info on the link bellow:
+<br>
+https://firebase.google.com/docs/flutter/setup
+
 In case of multiple errors after openning the project, run:
 <br>
 ``` flutter pub get```
